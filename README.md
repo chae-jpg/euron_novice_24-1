@@ -5,7 +5,7 @@
 파이썬 머신러닝 완벽 가이드(권철민, 위키북스)
 
 ## 폴더 구조
-Novice
+Novice  
 └─week01  
 &emsp; &emsp;└─week01_assignment.md  
 &emsp; &emsp;└─week01_pre.ipynb  
