@@ -6,7 +6,7 @@
 
 ## 폴더 구조
 Novice  
-└─week01  
+&nbsp;└─week01  
 &emsp; &emsp;└─week01_assignment.md  
 &emsp; &emsp;└─week01_pre.ipynb  
 &emsp; &emsp;└─week01_aft.ipynb  
