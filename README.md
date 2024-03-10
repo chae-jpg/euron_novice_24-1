@@ -3,3 +3,11 @@
 
 ## 사용 교재
 파이썬 머신러닝 완벽 가이드(권철민, 위키북스)
+
+## 폴더 구조
+Novice
+└─week01  
+&npsb;&npsb;└─week01_assignment.md  
+&npsb;&npsb;└─week01_pre.ipynb  
+&npsb;&npsb;└─week01_aft.ipynb  
+...
